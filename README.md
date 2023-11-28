@@ -1,3 +1,5 @@
+# Name keerthivasan M
+# Reg num: 23014067
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -57,15 +59,22 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
+# Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
+Developed by:keerthivasan M 
+RegisterNumber: 23014067
+*/![de1](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/d3f5d57a-fb5a-4deb-a200-0e9347ce0603)
+
+# Logic symbol & Truthtable
+![de1 4](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/752fa570-a738-4617-a2f5-38f24f6e5ee8)
+
+# RTL realization
+![de1 2](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/77e9dced-2872-45a2-9d29-a0236c00e339)
+# Timing diagram
+![de1 3](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/56d4e315-6cea-45f3-8be3-a02af424a42e)
+
+# Output:
+
 RTL
 
 Result:
