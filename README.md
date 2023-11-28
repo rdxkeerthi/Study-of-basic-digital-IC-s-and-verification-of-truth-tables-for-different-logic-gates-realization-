@@ -61,10 +61,11 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 # Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by:keerthivasan M 
 RegisterNumber: 23014067
 
-*/![de1](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/d3f5d57a-fb5a-4deb-a200-0e9347ce0603)
+![de1](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/d3f5d57a-fb5a-4deb-a200-0e9347ce0603)
 
 # Logic symbol & Truthtable
 ![de1 4](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/752fa570-a738-4617-a2f5-38f24f6e5ee8)
