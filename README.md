@@ -63,6 +63,7 @@ Check all the gates following the same procedure.
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
 Developed by:keerthivasan M 
+
 RegisterNumber: 23014067
 
 ![de1](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/d3f5d57a-fb5a-4deb-a200-0e9347ce0603)
@@ -75,9 +76,6 @@ RegisterNumber: 23014067
 # Timing diagram
 ![de1 3](https://github.com/rdxkeerthi/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473120/56d4e315-6cea-45f3-8be3-a02af424a42e)
 
-# Output:
 
-RTL
-
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
